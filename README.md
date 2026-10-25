@@ -16,7 +16,7 @@
 
 - ⬇️ **MBQ Media Downloader** — A media downloading utility.
 - 📚 **MBQ Library Manager** — A utility for managing digital libraries at University.
-- 🧪 **Medical Laboratory Management System ** — Desktop application project for a medical laboratory.
+- 🧪 **Medical Laboratory Management System** — Desktop application project for a medical laboratory.
 - 🏥 **Healthcare Website** — A website project for a healthcare organization.
 - 🏨 **Hospital Website** — A website project for a hospital.
 - 🩺 **Doctor-Prescription-Automation** — A prescription printing application.
