@@ -28,7 +28,7 @@
 
 - ⬇️ **MBQ Media Downloader** — A media downloading utility.
 - 📚 **MBQ Library Manager** — A utility for managing digital libraries at University.
-- 🧪 **Pak Medical Laboratory (PML)** — A website project for a medical laboratory.
+- 🧪 **Medical Laboratory Management System** — A website project for a medical laboratory.
 - 🏥 **Healthcare Website** — A website project for a healthcare organization.
 - 🏨 **Hospital Website** — A website project for a hospital.
 - 🩺 **Doctor-Prescription-Automation** — A prescription printing application.
